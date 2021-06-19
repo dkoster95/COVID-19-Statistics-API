@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "date": "2020-04-16",
+            "confirmed": 502,
+            "deaths": 9,
+            "recovered": 286,
+            "confirmed_diff": 10,
+            "deaths_diff": 1,
+            "recovered_diff": 26,
+            "last_update": "2020-04-16 23:30:31",
+            "active": 207,
+            "active_diff": -17,
+            "fatality_rate": 0.0179,
+            "region": {
+                "iso": "URY",
+                "name": "Uruguay",
+                "province": "",
+                "lat": "-32.5228",
+                "long": "-55.7658",
+                "cities": []
+            }
+        }
+    ]
+}
